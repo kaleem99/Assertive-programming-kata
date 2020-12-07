@@ -1,0 +1,22 @@
+{
+  "name": "mohammed-kaleem-184-assertive-programming-kata-javascript",
+  "version": "1.0.0",
+  "description": "Assertive programming kata (184) For raw project instructions see: https://raw.githubusercontent.com/Umuzi-org/tech-department/master/content/projects/basic-flow-control-katas-assertive/_index.md",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Umuzi-org/Mohammed-Kaleem-184-assertive-programming-kata-javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Umuzi-org/Mohammed-Kaleem-184-assertive-programming-kata-javascript/issues"
+  },
+  "homepage": "https://github.com/Umuzi-org/Mohammed-Kaleem-184-assertive-programming-kata-javascript#readme",
+  "devDependencies": {
+    "jasmine": "^3.6.3"
+  }
+}
